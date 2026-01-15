@@ -1,1 +1,5 @@
 # titanic-survival-rate-for-internship
+
+First i've loaded titanic survival dataset from kaggle.Then displayed first and last few records.Also identified numerical,categorical,binary and ordinal features.After that understands the datasets and looked whether it is suitable for machine learning.Also displayed input features and target variables.The dataset only conatins few records of about less than 500 rows.It is suitable for machine learning ,but if the rows are lesser than 100 ,we never may get the exact accuracy,it may overfit.Also observed missing and duplicate values.In my recent projects i dealed with missing values like,if the missing values is more than 80% i'll delete the column.If it is less than 20% i'll calculate the mean of that column and put it to each of the rows for numerical values.If it is a categorical column ,just takes the mode(the most repetative one).So,overall the dataset is supervised learning and binary classification type.Our target variable is 'survived' and we have to find how many survived based on genders.
+  Regards 
+    Binil Varghese.
